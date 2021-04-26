@@ -1,0 +1,8 @@
+C:\Users\HP\HW NEW\MySuperBank\BankStuff\bin\Debug\netstandard2.0\BankStuff.deps.json
+C:\Users\HP\HW NEW\MySuperBank\BankStuff\bin\Debug\netstandard2.0\BankStuff.dll
+C:\Users\HP\HW NEW\MySuperBank\BankStuff\bin\Debug\netstandard2.0\BankStuff.pdb
+C:\Users\HP\HW NEW\MySuperBank\BankStuff\obj\Debug\netstandard2.0\BankStuff.csprojAssemblyReference.cache
+C:\Users\HP\HW NEW\MySuperBank\BankStuff\obj\Debug\netstandard2.0\BankStuff.AssemblyInfoInputs.cache
+C:\Users\HP\HW NEW\MySuperBank\BankStuff\obj\Debug\netstandard2.0\BankStuff.AssemblyInfo.cs
+C:\Users\HP\HW NEW\MySuperBank\BankStuff\obj\Debug\netstandard2.0\BankStuff.dll
+C:\Users\HP\HW NEW\MySuperBank\BankStuff\obj\Debug\netstandard2.0\BankStuff.pdb
